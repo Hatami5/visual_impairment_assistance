@@ -1,7 +1,7 @@
 # <h1 align="center">🤖 AI-Powered Visual Assistant for Visually Impaired People 👁️‍🗨️</h1>
 <p align="center">
 <b>Real-time obstacle detection and intelligent navigation guidance using AI and computer vision.</b><br>
-Built and maintained by <a href="https://github.com/hatami5">Hassan Hatami</a> • AI Developer & Researcher
+Built and maintained by <a href="https://github.com/hatami5">Hassan Hatami</a> • AI\ML Engineer & LLm Specialist
 </p>
 
 <h2> Overview</h2>
@@ -77,7 +77,7 @@ cd ai-visual-assistant</code></pre>
 <h2 align="center"> Author</h2>
 <p align="center">
 <b>Hassan Hatami</b><br>
-AI Developer | AI Engineer | Researcher<br>
+LLm Specialist | AI Engineer | Researcher<br>
 <a href="https://github.com/Hatami5">GitHub</a> • <a href="https://www.linkedin.com/in/yourlinkedin">LinkedIn</a>
 </p>
 
