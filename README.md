@@ -1,4 +1,4 @@
-# <h1 align="center">🤖 AI-Powered Visual Assistant for Visually Impaired People 👁️‍🗨️</h1>
+# <h1 align="center">🤖Empowering Visually Impaired People 👁️‍🗨️</h1>
 <p align="center">
 <b>Real-time obstacle detection and intelligent navigation guidance using AI and computer vision.</b><br>
 Built and maintained by <a href="https://github.com/hatami5">Hassan Hatami</a> • AI\ML Engineer & LLm Specialist
